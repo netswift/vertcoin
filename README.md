@@ -5,12 +5,12 @@ http://www.vertcoin.org
 
 Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2011-2013 Litecoin Developers
-Copyright (c) 2014-2015 Vertcoin Developers
+Copyright (c) 2014-2016 Vertcoin Developers
 
 What is Vertcoin?
 ----------------
 
-Vertcoin is a lite version of Bitcoin using Lyra2RE as a proof-of-work algorithm.
+Vertcoin is a lite version of Bitcoin using Lyra2RE(v2) as a proof-of-work algorithm.
  - 2.5 minute block targets
  - subsidy halves in 840k blocks (~4 years)
  - ~84 million total coins
