@@ -526,7 +526,7 @@ void AddressTableModel::importStealthAddress()
     WalletModel::UnlockContext ctx(walletModel->requestUnlock());
     if(!ctx.isValid())
     {
-        return ;
+        return;
     }
     wallet->ImportStealthAddress();
 }

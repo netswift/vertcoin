@@ -2099,7 +2099,8 @@ void CWallet::ImportStealthAddress()
         }
     }
 
-    if(listImportSxWif.size() != 0){
+    if (listImportSxWif.size() != 0)
+    {
         ScanForWalletTransactions(pindexGenesisBlock, true);
         ReacceptWalletTransactions();
     }
